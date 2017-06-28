@@ -9,6 +9,9 @@
             "homepage": "http://www.orocrm.com"
         }
     ],
+    "replace": {
+        "oro/platform":"2.1.*"
+    },
     "require": {
         "php": ">=7.0",
         "ext-intl": "*",
